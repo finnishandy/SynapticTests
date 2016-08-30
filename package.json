@@ -1,0 +1,22 @@
+{
+  "name": "synaptic-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finnishandy/SynapticTests.git"
+  },
+  "author": "SR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/finnishandy/SynapticTests/issues"
+  },
+  "homepage": "https://github.com/finnishandy/SynapticTests#readme",
+  "dependencies": {
+    "synaptic": "^1.0.8"
+  }
+}
